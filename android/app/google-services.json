@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415397544232",
+    "project_id": "mobilegeming-f7110",
+    "storage_bucket": "mobilegeming-f7110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415397544232:android:0b563aef233bccad97101d",
+        "android_client_info": {
+          "package_name": "com.example.mobel_geming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_IPU5CpZg8kp3cbQV9Lwg-2Dn6eemcng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
